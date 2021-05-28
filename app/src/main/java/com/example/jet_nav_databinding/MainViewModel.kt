@@ -5,7 +5,7 @@ import androidx.lifecycle.ViewModel
 
 class MainViewModel : ViewModel() {
 
-    var count =0
+    var count = 0
     var countdata = MutableLiveData<Int>()
 
 

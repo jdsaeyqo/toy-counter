@@ -27,6 +27,7 @@ class FirstFragment : Fragment() {
         binding.lifecycleOwner = this
         binding.vm = viewmodel
 
+
         return binding.root
 
     }
